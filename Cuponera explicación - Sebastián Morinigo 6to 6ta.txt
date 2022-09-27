@@ -1,0 +1,18 @@
+Funcionamiento Prototipo Cuponera:
+
+Al iniciar el programa, aparecerá la página principal de la cuponera,
+con los botones principales para ir a "Tiendas", "Ofertas", "Registrarse", o "Iniciar Sesión"
+
+- Si se elige "Registrarse" habrá que completar los datos primordiales del usuario, luego, se le dará al
+botón - Ingresar - y habrá que poner un código de verificación del correo para terminar la verificación.
+
+- "Iniciar Sesión", deberá ingresarse el usuario y contraseña, luego dar a botón - Ingresar - de ahí se
+podrá ingresar el código del cupón que se tiene para registrarlo en la tienda.
+
+- "Ofertas", tendrá 3 opciones diferentes que son "Consultar ofertas", donde se podrán ver las ofertas
+generales. "Listado de últimas ofertas", las últimas ofertas cargadas. "Consulta de ofertas por tienda", 
+se visualizan las ofertas de cada tienda específica.
+
+- "Tiendas", se visualiza el mapa con los comercios adheridos, también hay un botón "Consultar comercios
+adheridos y ofertas por tienda", que te lleva a las diferentes zonas de cuponeras donde si se tocan 
+aparecerán las ofertas de cada tienda.
